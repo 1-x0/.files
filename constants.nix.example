@@ -1,0 +1,9 @@
+{
+  USERNAME = "__USERNAME__";
+  EMAIL = "__EMAIL__";
+  HOSTNAME = "nixos";
+  TIMEZONE = "Europe/Copenhagen";
+  LOCALE = "en_DK.UTF-8";
+  STATE_VERSION = "25.11";
+  SYSTEM = "x86_64-linux";
+}
